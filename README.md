@@ -1,1 +1,2 @@
-# t1_artificial_intelligence_and_data_science_Project
+# Trimester 1 Modules Assignment From Masters In Artificial Intelligence and Data Science
+
