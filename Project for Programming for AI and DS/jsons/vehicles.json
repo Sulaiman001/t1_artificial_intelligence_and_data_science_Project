@@ -1,0 +1,6004 @@
+{
+    "Vehicles": [
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Bonneville",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "ATS",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Achieva",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Scion",
+            "Vehicle Model": "F150 SuperCrew Cab",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "Outback",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Paceman",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "S-Series",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Express 3500 Passenger",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Town & Country",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan, Coupe, Hatchback"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Impreza",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Tundra Double Cab",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Stratus",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "1500 Regular Cab",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Sierra 2500 HD Crew Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "LC",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "S10 Regular Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Colorado Extended Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "RX",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Ram 3500 Quad Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Navigator",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Sierra 2500 HD Regular Cab",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Silverado 3500 HD Crew Cab",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Optima Hybrid",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Camry",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Talon",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Monte Carlo",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "X3",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Canyon Extended Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Spirit",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Aston Martin",
+            "Vehicle Model": "Sierra 1500 Crew Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Yukon XL 1500",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Wagon, Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "G",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Saab",
+            "Vehicle Model": "Transit Connect Cargo",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Frontier Crew Cab",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Odyssey",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Veloster",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Viper",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "S2000",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "300",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Phaeton",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "2500 Regular Cab",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "TrailBlazer",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Sportvan G20",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Tacoma Double Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe, Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Celica",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "B-Series Regular Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Sprinter 2500 Crew",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Civic",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Sierra 3500 HD Crew Cab",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Prelude",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Silverado 3500 HD Regular Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Commander",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Sorento",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan, Coupe, Hatchback"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "V90",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "3000GT",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "ES",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Rodeo",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Tiburon",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "929",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Escape",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Savana 2500 Cargo",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Excel",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Plymouth",
+            "Vehicle Model": "F150 SuperCrew Cab",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "NV3500 HD Passenger",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "DTS",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Jeep",
+            "Vehicle Model": "SX4",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Wrangler",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Sienna",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Capri",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Elantra",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "Safari Passenger",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "F150 Regular Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "HHR",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Spectra",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Amigo",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Grand Prix",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "X3",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Metris WORKER Passenger",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Blazer",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "V40",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "3500 Mega Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Escalade",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Fit",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "5 Series",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Camry",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Accord Hybrid",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Canyon Crew Cab",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Silverado 2500 HD Regular Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan, Wagon, Coupe"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Saturn",
+            "Vehicle Model": "Discovery",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "QX",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "TL",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Beetle",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "5 Series",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Hatchback, Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Viper",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Ridgeline",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "S8",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "F350 Super Duty Regular Cab",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "GLS",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "SVX",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "F350 Super Duty Super Cab",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Ram 2500 Regular Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "DeVille",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Grand Cherokee",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Hatchback, Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "iQ",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Venture Passenger",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Probe",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Sienna",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "911",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Hombre Regular Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "X-Type",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Sentra",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Ram 3500 Quad Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Protege5",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "J",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Cruze",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Murano",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "V50",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Sierra 2500 HD Regular Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "500",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Versa Note",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Sierra (Classic) 1500 Crew Cab",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "5 Series",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Camaro",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Silverado (Classic) 2500 HD Crew Cab",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Mustang",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Maserati",
+            "Vehicle Model": "Rodeo",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "A6",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jeep",
+            "Vehicle Model": "Passat",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "A4 (2005.5)",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Express 3500 Cargo",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Avalon",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Montero Sport",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "TT",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "A3",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Villager",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Saab",
+            "Vehicle Model": "A5",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "FJ Cruiser",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Escalade EXT",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Escalade EXT",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "XC70",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Sprinter 3500 Cargo",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "B-Series Cab Plus",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Ram Wagon 3500",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "A5",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Vitara",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Sportage",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "MX-5 Miata",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "TT",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Silverado (Classic) 2500 HD Regular Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Escape",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "MAZDA5",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Grand Marquis",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Ferrari",
+            "Vehicle Model": "Sequoia",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "NX",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "Suburban 1500",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "S60",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Silverado 2500 HD Extended Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "F350 Super Duty Super Cab",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "370Z",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "4Runner",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Hatchback, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Ram 2500 Quad Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ferrari",
+            "Vehicle Model": "Rally Wagon 2500",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "C30",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Ram 2500 Quad Cab",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Corolla",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Regal",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "MR2",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "5 Series",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Escalade",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Silverado 3500 Regular Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Freightliner",
+            "Vehicle Model": "Alpina B7",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Element",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "488 Spider",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "98",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "7 Series",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "CLS-Class",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "2500 Crew Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "ILX",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "LeSabre",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Sentra",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Samurai",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "RX",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Lancer",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Colorado Crew Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Jetta SportWagen",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "IS F",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Compass",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "SLX",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Mark LT",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Spectra",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "LS",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Accord",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Impreza",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Montero Sport",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "2500 Crew Cab",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "tC",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Malibu",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "fortwo",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Q40",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Tiburon",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Sierra 1500 Crew Cab",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Express 2500 Passenger",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jeep",
+            "Vehicle Model": "B-Series Regular Cab",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Explorer",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Eagle",
+            "Vehicle Model": "1500 Extended Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Sienna",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "XL-7",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "QX",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "XTS",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan, Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Lotus",
+            "Vehicle Model": "Pilot",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Q5",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Silverado 3500 HD Crew Cab",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Maserati",
+            "Vehicle Model": "Golf",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Veloster",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "F430",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "i-370 Extended Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Achieva",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "G-Class",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Rolls-Royce",
+            "Vehicle Model": "GranTurismo",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Tahoe",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Coupe, Sedan"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Savana 1500 Cargo",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Beetle",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Ghost",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Scion",
+            "Vehicle Model": "Sprinter 2500 Cargo",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "1500 Quad Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Challenger",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Ram Van 3500",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "E-Class",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Elantra",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Baja",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "XC40",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "ATS",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Suburban",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "300 CE",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Corolla",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "Expedition",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Titan King Cab",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Ram 2500 Quad Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "CX-9",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Ghibli",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "M",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Discovery Series II",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Touareg 2",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Express 3500 Passenger",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Vantage",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "900",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lotus",
+            "Vehicle Model": "Eclipse",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Prius v",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "RLX",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "500 E",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Passat",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Impala",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Expedition EL",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Sentra",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "3500 Crew Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "CL-Class",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "MPV",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Gallardo",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Range Rover",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Sienna",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Century",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Highlander",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "LaCrosse",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "XLR",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "M3",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Sierra 2500 HD Regular Cab",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Baja",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "960",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Charger",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Veloster",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Jeep",
+            "Vehicle Model": "Avalanche 1500",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Tracker",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Sportage",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Saab",
+            "Vehicle Model": "Maxima",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Maserati",
+            "Vehicle Model": "Savana 3500 Passenger",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Matrix",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Accent",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "S90",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Maybach",
+            "Vehicle Model": "Club Wagon",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Grand Caravan Passenger",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "NV3500 HD Passenger",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Coupe",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "V70",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Wrangler",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "F150 Super Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "CTS-V",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Sedan, Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Tundra Double Cab",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Impreza",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Prelude",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "3500 Mega Cab",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Suburban 2500",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Integra",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Windstar Passenger",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "3500 Regular Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "300 D",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "LeSabre",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "CLK-Class",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "GLC Coupe",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Exige",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Express 1500 Passenger",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Avenger",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Safari Cargo",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Macan",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Taurus",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Stelvio",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Range Rover",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sprinter 2500 Passenger",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "S5",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "xB",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "SC",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Volt",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "E350 Super Duty Passenger",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Xterra",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Taurus",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Escalade ESV",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Tundra Access Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "XC70",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Q60",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Tracker",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "5 Series",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Canyon Crew Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Golf III",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Frontier Crew Cab",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Nubira",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Navigator L",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Altima",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Windstar Passenger",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "GLE Coupe",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Capri",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "F150 Regular Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "XF",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "IS",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "fortwo electric drive",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Sable",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "E-PACE",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "A3 Sportback e-tron",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Rodeo",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "E250 Super Duty Cargo",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Sierra 2500 HD Regular Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Cayenne",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "C-Class",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Civic",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Armada",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Suburban 1500",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "ATS",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "RS 7",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "S80",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "FIAT",
+            "Vehicle Model": "Wrangler",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Fit",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "XT5",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Silverado 2500 HD Extended Cab",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "Sienna",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "LaCrosse",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Frontier Regular Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Pacifica",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Palisade",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "Silverado 3500 Crew Cab",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Coupe, Convertible, Sedan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "TT",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sierra 1500 Crew Cab",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Tiguan",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "XL-7",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Eagle",
+            "Vehicle Model": "Acadia",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "RX-8",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "ProMaster City",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Corvette",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Tacoma Double Cab",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Accord",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "i-290 Extended Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Range Rover Sport",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Suburban 2500",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Freightliner",
+            "Vehicle Model": "Jetta",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Cabrio",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "xA",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Cayman",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Silverado 2500 HD Crew Cab",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "GS",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Taurus",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "LS",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "GTC4Lusso",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Ram Van B250",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "HUMMER",
+            "Vehicle Model": "Spectra",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Savana 3500 Passenger",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "H3",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "SS",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Quest",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Jetta",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Lumina Passenger",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "T100 Regular Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "QX70",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Colorado Crew Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "G-Class",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Pacifica",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "488 GTB",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Countryman",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Escalade ESV",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Rainier",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Eclipse",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Sprinter 3500 Cargo",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Rodeo",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "F150 SuperCrew Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "G-Class",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Sierra (Classic) 1500 Regular Cab",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "S-Series",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Colt Vista",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Regal",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Defender 110",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "ES",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Excursion",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Corolla Hybrid",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "2500 Mega Cab",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Santa Fe",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "i-370 Extended Cab",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "S5",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Regular Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Defender 110",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "IS F",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Avalon",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "GLE",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Vitara",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Navigator",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Routan",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Huracan",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Continental",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Frontier Crew Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "86",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Yukon XL 2500",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Sierra 3500 HD Crew Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Villager",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Coupe, Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Vantage",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "F350 Super Duty Regular Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "F250 Super Duty Crew Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Express 1500 Passenger",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Discovery Sport",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Metro",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Sierra 1500 Double Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "XK",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Quattroporte",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "2500 Regular Cab",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Saab",
+            "Vehicle Model": "Silverado (Classic) 3500 Crew Cab",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Convertible, Coupe, Wagon"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "CLS",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Expedition EL",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "S80",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Sentra",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Forte",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "XLR",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "300M",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Charger",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Sierra 2500 HD Double Cab",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "D150 Club Cab",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Maybach",
+            "Vehicle Model": "Dakota Regular Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Sierra 1500 Crew Cab",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "XC60",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Mustang",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Maserati",
+            "Vehicle Model": "C-HR",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Scion",
+            "Vehicle Model": "Swift",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Monterey",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Tracker",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Lancer",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Caravan Cargo",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "CTS",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Prius",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Prius",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Mirage",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Mercedes-AMG S-Class",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "F250 Super Duty Regular Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Tracker",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Sportage",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Caravan Cargo",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Amanti",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "S80",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Tahoe",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "HR-V",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Dakota Regular Cab",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Express 2500 Cargo",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Spark",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "3-Sep",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "IS",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Sprinter 3500 Cargo",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan, Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Highlander",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Grand Vitara",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "B-Class",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Spacecab",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Sorento",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "B-Series Regular Cab",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Coupe, Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Civic",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Santa Fe",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "90",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Express 3500 Cargo",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "GS",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "FIAT",
+            "Vehicle Model": "Mirage G4",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Spirit",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "STS",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Bentley",
+            "Vehicle Model": "Camaro",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Roadmaster",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Coupe, Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Wrangler",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "R32",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "F250 Super Duty Super Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "Charger",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Cherokee",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Aviator",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Econoline E350 Super Duty Passenger",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Encore",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "LR3",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Avalanche 2500",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Discovery",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Highlander Hybrid",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "HUMMER",
+            "Vehicle Model": "Astro Passenger",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "M4",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Maybach",
+            "Vehicle Model": "XC40",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Pathfinder",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "E250 Cargo",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "1500 Quad Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Boxster",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "C-Class",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Eldorado",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Durango",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Corolla",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "CL-Class",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan, Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Frontier King Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lamborghini",
+            "Vehicle Model": "E150 Super Duty Passenger",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ferrari",
+            "Vehicle Model": "Echo",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "2500 Crew Cab",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "E150 Passenger",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "PT Cruiser",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Continental",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Silverado 3500 HD Crew Cab",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "TrailBlazer",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Routan",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Convertible, Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Rolls-Royce",
+            "Vehicle Model": "xB",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Accent",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "QX70",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Maxima",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "HUMMER",
+            "Vehicle Model": "Passat",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "S4",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Murcielago",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Ram Wagon 2500",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Titan Crew Cab",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Express 3500 Passenger",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "XT5",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Alfa Romeo",
+            "Vehicle Model": "Roadmaster",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "SLK-Class",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Yukon",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Tundra CrewMax",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "911",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "Fit",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Lancer",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Mercedes-AMG GLS",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "XV Crosstrek",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Windstar Cargo",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Eldorado",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Prius",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "XC70",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Mighty Max Macro Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe, Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Corvette",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Convertible, Hatchback"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "XK",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Saturn",
+            "Vehicle Model": "MR2",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "A3",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Sierra 2500 HD Regular Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Coupe, Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Sportvan G10",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Fit",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Mercedes-AMG CLS",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "X6",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Impala",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Continental",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "124 Spider",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Express 3500 Passenger",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "968",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Passport",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Convertible, Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Tacoma Regular Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Genesis",
+            "Vehicle Model": "Eclipse",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Town Car",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Saturn",
+            "Vehicle Model": "QX",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Tiburon",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Express 3500 Cargo",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Expedition",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Cavalier",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Envoy XL",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Bentley",
+            "Vehicle Model": "Sportvan G30",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "Explorer",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Eos",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "XC90",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "MP4-12C",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Coupe, Convertible, Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Equator Crew Cab",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Envoy",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Maserati",
+            "Vehicle Model": "Corolla iM",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "7 Series",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Optima Hybrid",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "G",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Frontier Crew Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Neon",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Vanquish",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Regular Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Eclipse",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "C-Class",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Millenia",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Legacy",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "G-Series 1500",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "G-Series G20",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "E250 Cargo",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "S-Type",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "3 Series",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Insight",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Geo",
+            "Vehicle Model": "Sedona",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Escalade",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "3500 Mega Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "Scoupe",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Ram 1500 Club Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "3 Series",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "Legacy",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "MX-5 Miata",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "S-Series",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "S40",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Colorado Crew Cab",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Integra",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Ranger Super Cab",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sprinter WORKER Cargo",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Rally Wagon 1500",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Montero Sport",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "7 Series",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "FIAT",
+            "Vehicle Model": "Mulsanne",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "H3T",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "ES",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Panamera",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Forte5",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Avalanche",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Ram 2500 Quad Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Passat",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Caravan Passenger",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jeep",
+            "Vehicle Model": "Pathfinder",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Legacy",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "Odyssey",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "CX-9",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Yukon XL 1500",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Express 3500 Cargo",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Storm",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "tC",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Ram 2500 Quad Cab",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Outback",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Cutlass Supreme",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "SL",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Lucerne",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "XC90",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Quest",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Outback",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Maybach",
+            "Vehicle Model": "1500 Regular Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Viper",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "1500 Extended Cab",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "XK",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Flex",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Topaz",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Dakota Quad Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Jimmy",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "F-PACE",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sonic",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Mark LT",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "E-Class",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "Galant",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "MAZDA6",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "2500 Regular Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Colorado Crew Cab",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Isuzu",
+            "Vehicle Model": "Quest",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Expedition",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "3500 Extended Cab",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Passat",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Touareg",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Saturn",
+            "Vehicle Model": "NV1500 Cargo",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Coupe, Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Express 2500 Cargo",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "F150 Super Cab",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Silverado 2500 Extended Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lamborghini",
+            "Vehicle Model": "Dakota Regular Cab",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Sprinter WORKER Passenger",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Grand Caravan Passenger",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Ram Wagon 2500",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Sable",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "G-Series G30",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "SS",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Silverado 2500 HD Crew Cab",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Elantra",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "McLaren",
+            "Vehicle Model": "3500 Crew Cab",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "F150 Regular Cab",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "GranTurismo",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Pathfinder",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "F250 Super Duty Super Cab",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "SLR McLaren",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "A4",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Prius Prime",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "CT",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "MKC",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Sonoma Club Coupe Cab",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Fusion",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Accent",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "C-Class",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Silverado 2500 HD Regular Cab",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Sprinter 2500 Passenger",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Dakota Regular Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "FIAT",
+            "Vehicle Model": "MPV",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Breeze",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "D250 Club Cab",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Ghost",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "Viper",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "IS",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "9-7X",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Tacoma Regular Cab",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "Cayman",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Summit",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "R8",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Cutlass Ciera",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Golf R",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Mercedes-AMG GLS",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Durango",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Land Cruiser",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Crown Victoria",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "XC60",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "BRZ",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Sierra 2500 HD Regular Cab",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "S8",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Touareg",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Grand Cherokee",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Touareg",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "fortwo",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Tundra Access Cab",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Express 2500 Cargo",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "ProMaster 2500 Cargo",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Eldorado",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Quest",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Sierra 1500 Regular Cab",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Thunderbird",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Eagle",
+            "Vehicle Model": "SL-Class",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Express 3500 Cargo",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Ranger Regular Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "T100 Xtracab",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Suburban 2500",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Ranger Regular Cab",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "Avenger",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Windstar Passenger",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "XK",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Silverado 1500 Crew Cab",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "i3",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Montero Sport",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Transit 350 HD Van",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Lamborghini",
+            "Vehicle Model": "Raider Double Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Maserati",
+            "Vehicle Model": "88",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "R-Class",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "V60",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Fusion",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "SQ5",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Pilot",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Express 2500 Passenger",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Savana 3500 Cargo",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Soul",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Silverado 1500 Crew Cab",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "E-PACE",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "allroad",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Freightliner",
+            "Vehicle Model": "Transit 250 Van",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Hatchback, Convertible"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "XJ",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Aston Martin",
+            "Vehicle Model": "Civic",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Express 3500 Cargo",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Ram 3500 Regular Cab",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "Viper",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "XC90",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Coupe, Hatchback, Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Land Cruiser",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "NV200 Taxi",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Tundra CrewMax",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "5-Sep",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "G-Class",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "QX80",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "3500 Regular Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Sebring",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Traverse",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "NSX",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "Montero",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "GL-Class",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "A4",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "RL",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "X-Type",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Sprinter 3500 Cargo",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "V70",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "S-Series",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "F250 Super Duty Crew Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Tundra Regular Cab",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Flex",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "940",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Catera",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Commander",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "Monte Carlo",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan, Convertible, Coupe, Wagon"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Sprinter 2500 Passenger",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Aerostar Passenger",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Cabriolet",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "SC",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Yukon XL 2500",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "FIAT",
+            "Vehicle Model": "Express 2500 Passenger",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Durango",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sprinter 3500 Cargo",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Outback",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "M-Class",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Stratus",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Outlook",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "MPV",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "1500 Crew Cab",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Monte Carlo",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "TT",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Ferrari",
+            "Vehicle Model": "A7",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Expedition",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Encore",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Borrego",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "SC",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Volvo",
+            "Vehicle Model": "Precis",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Oldsmobile",
+            "Vehicle Model": "Convertible",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "2500 Club Coupe",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Charger",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "MKT",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Yaris Hatchback",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "CLA",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Silverado 2500 HD Extended Cab",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Land Cruiser",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "F250 Super Duty Regular Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "1500 Regular Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Scion",
+            "Vehicle Model": "Navigator",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "3 Series",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Outlander Sport",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Vantage",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Boxster",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Sonoma Crew Cab",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Xterra",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "F250 Super Cab",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Lamborghini",
+            "Vehicle Model": "Durango",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Ranger Super Cab",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "LS",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "V40",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "S4",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Q5",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Crown Victoria",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lamborghini",
+            "Vehicle Model": "Express 2500 Passenger",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Sedan, Convertible, Wagon"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Town Car",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "5 Series",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "E-Class",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Z3",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "DTS",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "B-Series Extended Cab",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Saturn",
+            "Vehicle Model": "MX-5 Miata RF",
+            "Vehicle Year": "1999",
+            "Vehicle Type": "Sedan, Wagon, Coupe"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "SLK-Class",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "MAZDA6",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Outlook",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Tucson",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "MAZDA5",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Jetta",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Phantom",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "ES",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "Silverado 2500 Regular Cab",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Freestyle",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ram",
+            "Vehicle Model": "Highlander",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Yukon XL 2500",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Camry",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Venture Passenger",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Discovery",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Audi",
+            "Vehicle Model": "A4",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Metro",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Frontier King Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "MKX",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Toronado",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "626",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "F150 Super Cab",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Express 2500 Cargo",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "McLaren",
+            "Vehicle Model": "Blazer",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Canyon Extended Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Verano",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Santa Fe XL",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Fusion Energi",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Prelude",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Convertible",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Camry",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Edge",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "1500 Regular Cab",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "M4",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "fortwo electric drive",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Legacy",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan, Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "F350 Super Duty Crew Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Riviera",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Fusion",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "MKT",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Sedan, Coupe"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Mercedes-AMG SLC",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Express 3500 Passenger",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Tiburon",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Giulia",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Bonneville",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Silverado 2500 HD Extended Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Dawn",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "MX-5 Miata RF",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Coupe, Sedan, Convertible"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "GTI",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Eagle",
+            "Vehicle Model": "Mystique",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Escort",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "A4",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "MAZDA",
+            "Vehicle Model": "RSX",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Bentley",
+            "Vehicle Model": "XL7",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Express 3500 Passenger",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "Boxster",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "M-Class",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "XJ",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan, Hatchback, Wagon"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Canyon Crew Cab",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "ProMaster City",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Q7",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Flex",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Ranger Regular Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Impreza",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "S4",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Solara",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Yukon XL 1500",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sunfire",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Regal",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Sierra 3500 HD Regular Cab",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chrysler",
+            "Vehicle Model": "Escape",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Spark",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "Savana 2500 Cargo",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "3 Series",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercury",
+            "Vehicle Model": "Suburban 2500",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "tC",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Saab",
+            "Vehicle Model": "Ram 2500 Regular Cab",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "MINI",
+            "Vehicle Model": "Malibu",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Pathfinder",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Mitsubishi",
+            "Vehicle Model": "Tacoma Double Cab",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Highlander",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Savana 1500 Passenger",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Yaris",
+            "Vehicle Year": "2001",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Highlander",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Diamante",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Genesis",
+            "Vehicle Model": "Suburban 1500",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Veloster",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Hatchback, Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "4Runner",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "GLE",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV, Wagon"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "Tribeca",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "MKZ",
+            "Vehicle Year": "2007",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "INFINITI",
+            "Vehicle Model": "GLK-Class",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "RLX",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Plymouth",
+            "Vehicle Model": "HR-V",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "570S",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "370Z",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Escalade EXT",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Continental",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "GLE Coupe",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "Tribeca",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Sentra",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Bolt EV",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Suburban 2500",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Club Wagon",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "S5",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Intrigue",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Spectra",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Express 1500 Cargo",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "62",
+            "Vehicle Year": "2008",
+            "Vehicle Type": "Convertible, Coupe"
+        },
+        {
+            "Vehicle Make": "Lincoln",
+            "Vehicle Model": "Suburban 2500",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Element",
+            "Vehicle Year": "2016",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Buick",
+            "Vehicle Model": "C-Class",
+            "Vehicle Year": "2000",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Acura",
+            "Vehicle Model": "Acadia",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "MX-3",
+            "Vehicle Year": "2009",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Subaru",
+            "Vehicle Model": "Sierra 1500 Regular Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "ATS-V",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Convertible"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Sprinter 2500 Cargo",
+            "Vehicle Year": "1992",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Hyundai",
+            "Vehicle Model": "Equator Crew Cab",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Impala",
+            "Vehicle Year": "2004",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "Sierra 1500 Crew Cab",
+            "Vehicle Year": "2019",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Yukon",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Corvette",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Porsche",
+            "Vehicle Model": "G6 (2009.5)",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Astra",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Pontiac",
+            "Vehicle Model": "3 Series",
+            "Vehicle Year": "1995",
+            "Vehicle Type": "Wagon, Sedan"
+        },
+        {
+            "Vehicle Make": "Cadillac",
+            "Vehicle Model": "IS",
+            "Vehicle Year": "2013",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "XT5",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Civic",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "Equinox",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "Sedan, Wagon"
+        },
+        {
+            "Vehicle Make": "Lexus",
+            "Vehicle Model": "Transit 150 Van",
+            "Vehicle Year": "2006",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "BMW",
+            "Vehicle Model": "LR3",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Mercedes-AMG GLC Coupe",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "FIAT",
+            "Vehicle Model": "Odyssey",
+            "Vehicle Year": "2010",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Land Rover",
+            "Vehicle Model": "Avalon",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Hatchback"
+        },
+        {
+            "Vehicle Make": "Chevrolet",
+            "Vehicle Model": "Tracer",
+            "Vehicle Year": "2002",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Honda",
+            "Vehicle Model": "Silverado 2500 Regular Cab",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Sedan, Hatchback"
+        },
+        {
+            "Vehicle Make": "Dodge",
+            "Vehicle Model": "Thunderbird",
+            "Vehicle Year": "1996",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "Durango",
+            "Vehicle Year": "1998",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "RS 7",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "GMC",
+            "Vehicle Model": "Venture Cargo",
+            "Vehicle Year": "2018",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Kia",
+            "Vehicle Model": "3 Series",
+            "Vehicle Year": "2003",
+            "Vehicle Type": "Coupe, Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Sprinter 3500 Cargo",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Scion",
+            "Vehicle Model": "Vibe",
+            "Vehicle Year": "2005",
+            "Vehicle Type": "Wagon"
+        },
+        {
+            "Vehicle Make": "Suzuki",
+            "Vehicle Model": "Silverado 2500 HD Extended Cab",
+            "Vehicle Year": "2012",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Freightliner",
+            "Vehicle Model": "Nautilus",
+            "Vehicle Year": "2011",
+            "Vehicle Type": "Wagon, Convertible"
+        },
+        {
+            "Vehicle Make": "Volkswagen",
+            "Vehicle Model": "Eclipse",
+            "Vehicle Year": "1997",
+            "Vehicle Type": "SUV"
+        },
+        {
+            "Vehicle Make": "Jaguar",
+            "Vehicle Model": "Mystique",
+            "Vehicle Year": "2017",
+            "Vehicle Type": "Coupe"
+        },
+        {
+            "Vehicle Make": "Mercedes-Benz",
+            "Vehicle Model": "M6",
+            "Vehicle Year": "2014",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Nissan",
+            "Vehicle Model": "Prizm",
+            "Vehicle Year": "1994",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Saturn",
+            "Vehicle Model": "Convertible",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Toyota",
+            "Vehicle Model": "Yukon",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Van/Minivan"
+        },
+        {
+            "Vehicle Make": "Ford",
+            "Vehicle Model": "S6",
+            "Vehicle Year": "2020",
+            "Vehicle Type": "Sedan"
+        },
+        {
+            "Vehicle Make": "Scion",
+            "Vehicle Model": "Ram 1500 Quad Cab",
+            "Vehicle Year": "2015",
+            "Vehicle Type": "Pickup"
+        },
+        {
+            "Vehicle Make": "Geo",
+            "Vehicle Model": "S7",
+            "Vehicle Year": "1993",
+            "Vehicle Type": "Van/Minivan"
+        }
+    ]
+}

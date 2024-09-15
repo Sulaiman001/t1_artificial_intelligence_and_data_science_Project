@@ -1,0 +1,37 @@
+'Adress': row[0],
+'City': row[1],
+'Post Code': row[2],
+'Age': row[3],
+'Distance': row[4],
+'Employer': row[5],
+'Credit Card Start': row[6],
+'Credit Card End': row[7],
+'Credit Card Number': row[7],
+'Credit Card CVV': row[7],
+
+Credit Card Expiry Date,
+Credit Card Number,
+Credit Card CVV,
+Dependants,
+
+'Dependant': row[8],
+'First Name': row[9],
+'Bank IBAN': row[10],
+'Last Name': row[11],
+'Marital Status': row[12],
+'Annual Pension': row[13],
+'Retired': row[14],
+'Annual Salary': row[15],
+'Sex': row[16],
+'Vehicle Make': row[17],
+'Vehicle Model': row[18],
+'Vehicle Year': row[19],
+'Vehicle Type': row[20]
+
+
+
+Sex,
+Vehicle Make,
+Vehicle Model,
+Vehicle Year,
+Vehicle Type
